@@ -1,4 +1,4 @@
-# P03D20
+# game-of-life
 The russian version of the task can be found in the repository.
 
 ![dayp03](misc/eng/images/dayp03.png)

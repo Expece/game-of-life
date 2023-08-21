@@ -1,4 +1,4 @@
-# P03D20
+# game-of-life
 
 ![dayp03](misc/rus/images/dayp03.png)
 
